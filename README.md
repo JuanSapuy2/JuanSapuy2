@@ -6,6 +6,17 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h2> Hey there! I'm Juan Sapuy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      Este es un ejemplo de descripción a la izquierda del GIF.<br>
+      Aquí puedes escribir lo que quieras y se alineará al costado.
+    </p>
+  </div>
+  <div>
+    <img src="https://media.tenor.com/sddp5n1MYiEAAAAi/deltarune-kris-dance.gif" width="200">
+  </div>
+</div>
 
 <table>
   <tr>
