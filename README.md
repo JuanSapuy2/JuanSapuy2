@@ -6,24 +6,21 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h2> Hey there! I'm Juan Sapuy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<table>
-  <img src="assets/kris-dance.gif" width="200">
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <p>
+      I'm an Electronics and Telecommunications Engineering student who is passionate about Embedded Systems, CNC Machines, the Automotive Industry, and I also enjoy repairing electronic devices.
+    </p>
+    <ul>
+      <li>🎓 &nbsp; I’m currently studying at Universidad Católica de Colombia.</li>
+      <li>🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines & Programming, and AUTOSAR.</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/JuanSapuy2/my-assets/blob/main/deltarune-kris-dance.gif?raw=true" width="200">
+  </div>
+</div>
 
-  <tr>
-    <td width="70%">
-      <p>
-        I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
-      </p>
-      <ul>
-        <li>🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.</li>
-        <li>🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines & Programming, and AUTOSAR.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.tenor.com/IyB88dkC1HAAAAAi/deltarune-kris-dance.gif" width="200">
-    </td>
-  </tr>
-</table>
 
 
 - 🌱 I am currently in the race **Software Design and Development**
