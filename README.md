@@ -36,24 +36,50 @@ I'm an Electronics and Telecommunications Engineering student who is passionate 
 </div>
 
 
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+- 💻 &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  
 
-- 🌱 I am currently in the race **Software Design and Development**
-
-- 🏙 Creator of the [Devs Community](https://github.com/Devs-Com) organization
-
-- 📫 How to reach me **davidmramos30@gmail.com**
-**JuanSapuy2/JuanSapuy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
 -->
+### ✨ Visitors
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="Mo-Alsehli" /> </p>
+
+---
+
+### 📊 Profile stats
+
+[![Mohamed Magdi 's github stats](https://github-readme-stats.vercel.app/api?username=Mo-Alsehli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mo-Alshli/github-readme-stats)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mo-Alsehli&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="mohamed_magdi" /></p>
+
+---
+
+### 📊 Profile contribution
+
+> 3D Contrib
+
+<div align="center">
+  <img  src = "https://github.com/Mo-Alsehli/Mo-Alsehli/blob/master/profile-3d-contrib/profile-season-animate.svg"
+       alt="3d-contrib" height = 85% width = 70% /></a>
+</div>
+
+> Contribution Graph
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
