@@ -9,7 +9,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 I'm a Mechatronics and Embedded Systems student who is passionate about Embedded Systems, CNC Machines, and Automotive Industry.
-
+<div class="tenor-gif-embed" data-postid="14050753534721492851" data-share-method="host" data-aspect-ratio="0.836502" data-width="100%"><a href="https://tenor.com/view/deltarune-kris-dance-gif-14050753534721492851">Deltarune Kris Dance Sticker</a>from <a href="https://tenor.com/search/deltarune-stickers">Deltarune Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 - 🎓 &nbsp; I’m currently a senior student at Tanta University's Mechatronics Department.
 - 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines&Programming, and AUTOSAR.
   <!-- Connect with me -->
