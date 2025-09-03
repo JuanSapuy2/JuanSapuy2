@@ -1,11 +1,3 @@
-<!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h2> Hey there! I'm Juan Sapuy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <p>
@@ -19,6 +11,26 @@
   <div>
     <img src="https://github.com/JuanSapuy2/my-assets/blob/main/deltarune-kris-dance.gif?raw=true" width="200">
   </div>
+</div>
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">How to reach me 🤝</h2></summary>
+  </ul>
+
+  <!-- icons and links -->
+  <p align="left">
+    <!-- Outlook -->
+    <a href="mailto:jdsapuy39@ucatolica.edu.co" target="blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="50" width="50" />
+    </a>
+    <!-- Discord -->
+    <a href="https://discordapp.com/users/609175669473148947" target="blank">
+      <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+    </a>
+  </p>
 </div>
 
 
