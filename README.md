@@ -9,8 +9,7 @@
 I'm an Electronics and Telecommunications Engineering student who is passionate about Embedded Systems, CNC Machines, the Automotive Industry, and I also enjoy repairing electronic devices.
 
 - 🎓 &nbsp; I’m currently studying at Universidad Católica de Colombia.  
-- 🌱 &nbsp; Learning more about Microcontrollers, Embedded Software, Embedded Linux, CNC Machines & Programming, and AUTOSAR.  
-
+- 🌱 &nbsp; Learning about Microcontrollers, Embedded Systems, Embedded hardware, Machines & Programming.
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -20,16 +19,22 @@ I'm an Electronics and Telecommunications Engineering student who is passionate 
 
   <!-- icons and links -->
   <p align="left">
-    <!-- Outlook -->
-    <a href="mailto:jdsapuy39@ucatolica.edu.co" target="blank">
-      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="outlook" height="50" width="50" />
+    <!-- Gmail -->
+    <a href="mailto:cjuansapuy@gmail.com" target="blank">
+      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail" height="50" width="50" />
     </a>
     <!-- Discord -->
     <a href="https://discordapp.com/users/609175669473148947" target="blank">
       <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
     </a>
   </p>
+
+  <!-- Outlook as text -->
+  <p align="left">
+    📧 Outlook: jdsapuy39@ucatolica.edu.co
+  </p>
 </div>
+
 
 
 
