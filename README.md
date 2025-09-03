@@ -6,7 +6,7 @@
   <img src="https://github.com/JuanSapuy2/my-assets/blob/main/deltarune-kris-dance.gif?raw=true" align="right" width="200"/>
 </p>
 
-I'm an Electronics and Telecommunications Engineering student who is passionate about Embedded Systems, CNC Machines, the Automotive Industry, and I also enjoy repairing electronic devices.
+I'm an Electronics and Telecommunications Engineering student who is passionate about Embedded Systems and I also enjoy repairing electronic devices.
 
 - 🎓 &nbsp; I’m currently studying at Universidad Católica de Colombia.  
 - 🌱 &nbsp; Learning about Microcontrollers, Embedded Systems, Embedded hardware, Machines & Programming.
