@@ -53,10 +53,6 @@ I'm an Electronics and Telecommunications Engineering student who is passionate 
   
 
 <br/>
--->
-### ✨ Visitors
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mo-Alsehli" alt="JuanSapuy2" /> </p>
 
 ---
 
@@ -64,3 +60,5 @@ I'm an Electronics and Telecommunications Engineering student who is passionate 
 
 <!-- TROFEOS GITHUB -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
