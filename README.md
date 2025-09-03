@@ -7,6 +7,8 @@
 <h2> Hey there! I'm Juan Sapuy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <table>
+  <img src="assets/kris-dance.gif" width="200">
+
   <tr>
     <td width="70%">
       <p>
